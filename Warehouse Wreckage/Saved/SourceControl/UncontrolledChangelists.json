@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/BP_Bullet.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/main.umap",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/UI/transparent-crosshair-png-11.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/UI/HUD.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/BP_Barrel.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/IndustryPropsPack6/Meshes/SM_Barrel02.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/IndustryPropsPack6/Meshes/SM_Rack01.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/SM_Barrel01_Blueprint.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/main2.umap",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M_Mat.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_Mat.uasset",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/idunno.umap",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/idunno2.umap",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/idunno3.umap",
+				"C:/Users/pc/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/BP_Bullet.uasset"
+			]
+		}
+	]
+}
